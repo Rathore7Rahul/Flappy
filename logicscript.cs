@@ -22,24 +22,4 @@ public class logicscript : MonoBehaviour
     public void gameover() { 
     gameoverscreen.SetActive(true);
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
